@@ -1,0 +1,15 @@
+C:\Users\Well\Documents\EAD\SENAI\Codificação para BackEnd\Ola mundo em C#\10ControleClientes\bin\Debug\net7.0\10ControleClientes.exe
+C:\Users\Well\Documents\EAD\SENAI\Codificação para BackEnd\Ola mundo em C#\10ControleClientes\bin\Debug\net7.0\10ControleClientes.deps.json
+C:\Users\Well\Documents\EAD\SENAI\Codificação para BackEnd\Ola mundo em C#\10ControleClientes\bin\Debug\net7.0\10ControleClientes.runtimeconfig.json
+C:\Users\Well\Documents\EAD\SENAI\Codificação para BackEnd\Ola mundo em C#\10ControleClientes\bin\Debug\net7.0\10ControleClientes.dll
+C:\Users\Well\Documents\EAD\SENAI\Codificação para BackEnd\Ola mundo em C#\10ControleClientes\bin\Debug\net7.0\10ControleClientes.pdb
+C:\Users\Well\Documents\EAD\SENAI\Codificação para BackEnd\Ola mundo em C#\10ControleClientes\obj\Debug\net7.0\10ControleClientes.csproj.AssemblyReference.cache
+C:\Users\Well\Documents\EAD\SENAI\Codificação para BackEnd\Ola mundo em C#\10ControleClientes\obj\Debug\net7.0\10ControleClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Well\Documents\EAD\SENAI\Codificação para BackEnd\Ola mundo em C#\10ControleClientes\obj\Debug\net7.0\10ControleClientes.AssemblyInfoInputs.cache
+C:\Users\Well\Documents\EAD\SENAI\Codificação para BackEnd\Ola mundo em C#\10ControleClientes\obj\Debug\net7.0\10ControleClientes.AssemblyInfo.cs
+C:\Users\Well\Documents\EAD\SENAI\Codificação para BackEnd\Ola mundo em C#\10ControleClientes\obj\Debug\net7.0\10ControleClientes.csproj.CoreCompileInputs.cache
+C:\Users\Well\Documents\EAD\SENAI\Codificação para BackEnd\Ola mundo em C#\10ControleClientes\obj\Debug\net7.0\10ControleClientes.dll
+C:\Users\Well\Documents\EAD\SENAI\Codificação para BackEnd\Ola mundo em C#\10ControleClientes\obj\Debug\net7.0\refint\10ControleClientes.dll
+C:\Users\Well\Documents\EAD\SENAI\Codificação para BackEnd\Ola mundo em C#\10ControleClientes\obj\Debug\net7.0\10ControleClientes.pdb
+C:\Users\Well\Documents\EAD\SENAI\Codificação para BackEnd\Ola mundo em C#\10ControleClientes\obj\Debug\net7.0\10ControleClientes.genruntimeconfig.cache
+C:\Users\Well\Documents\EAD\SENAI\Codificação para BackEnd\Ola mundo em C#\10ControleClientes\obj\Debug\net7.0\ref\10ControleClientes.dll
